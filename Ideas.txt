@@ -9,4 +9,4 @@ Program 4: diceroll problem from newboston - show random dice no. then ask user 
         
 Program 5: Online book store ...... to be continued
 
-Program 6: Just typing this because I am learning git hub.
+Program 6: Just typing this because I am learning git hub , thinking about making this this branch detail analysis of every program...
