@@ -1,0 +1,11 @@
+Program 1: Making football app of dream11 where you will type players name or select for A/M/D/G posn and their jersey .... to be continued
+
+Program 2: if else statement quens whould you chose millioin dollar now or double your money each day for 1 month starting from 1 cent(kind of done)
+
+Program 3: Password containg alteast one Capital letter and one special character must be larger than 8 words and smaller than 20....to be continued
+
+Program 4: diceroll problem from newboston - show random dice no. then ask user to guess whether next no. will be higher or lower than that - to be completed
+        4.1: also it can be made for playing cards gussing color as well as higher or lower. - yet to be released
+        
+Program 5: Online book store ...... to be continued
+
