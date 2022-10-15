@@ -2,7 +2,7 @@ SQL       : 0:0:0	/ 3:10:18
 +
 Python    : 0:0:0 / 6:14:06
 +
-AIML      : 0:0:0 / 4:20:57
+AIML      : 0:13:43 / 4:20:57  // introduction & machine learning
  
 
 Vaccation Pack: 
@@ -15,3 +15,28 @@ Python  : https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qk
 AIML    : https://www.youtube.com/watch?v=jTKc7-K22jw&t=483s 
 
 Project: update fifa 17 to fifa 23 , automation for insigna app for attendance , JS - Discord bot
+
+----------------------------------------------------------------------------------------------------------
+SQL NOTES
+----------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------------
+Python NOTES
+----------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------------
+AIML NOTES
+----------------------------------------------------------------------------------------------------------
+13:43
+Learned about basic introduction to aiml how it has modernized : 
+Tradition AI , small , medium , large neural net 
+INPUT                     OUTPUT            Application
+email                     spam?(0/1)        spam filtering
+audio                     text tanscript    speech recognition // like auto generate caption on youtube
+english                   chinesse          machine translation 
+advertise                 click?(0/1)       online advertising
+image of phone(iso)       defect?(0/1)      visual inspection
+
+
