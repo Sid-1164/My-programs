@@ -1,4 +1,6 @@
-                                                                  MY TRY -                                                               
+Make customized gym app duude...
+
+MY TRY -                                                               
                                                           
 Program 1: Making football app of dream11 where you will type players name or select for A/M/D/G posn and their jersey .... to be continued
 
@@ -15,3 +17,4 @@ Program 6: Just typing this because I am learning git hub.
 
 Program 7: making program to store things in txt file using file_handling .. EX> list of movies i have watched add new without rewriting 
             you can use struct to store movie name , genre ,rating , sharable link , etc.
+
