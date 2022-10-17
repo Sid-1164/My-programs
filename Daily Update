@@ -1,4 +1,4 @@
-SQL       : 0:0:0	/ 3:10:18
+SQL       : 0:29:33	/ 3:10:18 // select statement
 +
 Python    : 37:40:0 / 6:14:06
 +
@@ -20,6 +20,14 @@ Project: update fifa 17 to fifa 23 , automation for insigna app for attendance ,
 SQL NOTES
 ----------------------------------------------------------------------------------------------------------
 
+d2 : USE store;
+
+SELECT 1, 2
+-- FROM customers
+-- WHERE customer_id = 1	// this is comment in mysql
+-- ORDER BY first_name
+
+d3 : 
 
 ----------------------------------------------------------------------------------------------------------
 Python NOTES
