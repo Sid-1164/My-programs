@@ -2,7 +2,7 @@ SQL       : 0:43:43	/ 3:10:18
 +
 Python    : 58:20:0 / 6:14:06
 +
-AIML      : 0:24:57 / 4:20:57  
+AIML      : 0:42:12 / 4:20:57  
  
 
 Vaccation Pack: 
@@ -45,5 +45,6 @@ audio                     text tanscript    speech recognition // like auto gene
 english                   chinesse          machine translation 
 advertise                 click?(0/1)       online advertising
 image of phone(iso)       defect?(0/1)      visual inspection
+Notes are added as SS in folder (from now on update there)
 
 
