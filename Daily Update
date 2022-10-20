@@ -1,6 +1,6 @@
 SQL       : 0:43:43	/ 3:10:18 
 +
-Python    : 58:20:0 / 6:14:06
+Python    : 1:10:47 / 6:14:06
 +
 AIML      : 0:42:12 / 4:20:57  
  
@@ -31,7 +31,8 @@ d3 : I have made .txt files for the notes in same folder as sql (from now on upd
 ----------------------------------------------------------------------------------------------------------
 Python NOTES
 ----------------------------------------------------------------------------------------------------------
-Basics : variables , strings , type casting , string methods , arithmatic operation , math function 
+Basics : variables , strings , type casting , string methods , arithmatic operation , math function , if
+         comparision operators , logical operators ,  
 
 ----------------------------------------------------------------------------------------------------------
 AIML NOTES
