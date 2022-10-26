@@ -18,3 +18,4 @@ Program 6: Just typing this because I am learning git hub.
 Program 7: making program to store things in txt file using file_handling .. EX> list of movies i have watched add new without rewriting 
             you can use struct to store movie name , genre ,rating , sharable link , etc.
 
+Program 8: website , asking about your overall day and based on that giving good thought as output
