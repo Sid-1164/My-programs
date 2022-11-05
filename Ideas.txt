@@ -19,3 +19,6 @@ Program 7: making program to store things in txt file using file_handling .. EX>
             you can use struct to store movie name , genre ,rating , sharable link , etc.
 
 Program 8: website , asking about your overall day and based on that giving good thought as output
+
+Program 9: 1) 2d tic tac toe just for implimantaion or to get idea so that to build : 3d tic tac toe
+           2) magic chess
