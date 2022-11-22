@@ -18,7 +18,19 @@ Program 6: Just typing this because I am learning git hub.
 Program 7: making program to store things in txt file using file_handling .. EX> list of movies i have watched add new without rewriting 
             you can use struct to store movie name , genre ,rating , sharable link , etc.
 
-Program 8: website , asking about your overall day and based on that giving good thought as output
+Program 8: website , asking about your overall day and based on that giving good thought as output: (AI/ML)
+              how are u feeling ? what's the mood?
+              suggestions: productive / advantures / border / tierd 
+              
+              Study catagory : Self study , study for extra / general knowledge(diff youtube videos) , regular DSA / Python / SQL etc
+                               Acadamics related (clearing backlog , going little bit deeper)
+              Music catagory : silent songs, heavy metal , jazz like , punk , famous , rom songs , etc
+              Game catagory : valo , fifa , chess , etc
+              Exercise catg : football , badminton , resistance band, meditaiton , walk , cycling(early morning / late night);
+              Feeling / emotion : talk with someone, go to party , just take day off, it's been days you have called (xyz) 
+              
+              Catagory combinations
 
 Program 9: 1) 2d tic tac toe just for implimantaion or to get idea so that to build : 3d tic tac toe
            2) magic chess
+
