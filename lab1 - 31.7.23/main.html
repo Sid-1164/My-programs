@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Static Web Page</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+    nav {
+      background-color: #eee;
+      padding: 10px;
+    }
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    nav li {
+      display: inline;
+      margin-right: 10px;
+    }
+    main {
+      margin-top: 20px;
+    }
+    section {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+/* 
+    .details{
+        width: 350px;
+        justify-content: space-between;
+        display: flex;
+    }
+     */
+    .details p{
+        font-size: small;
+    }
+
+    .details strong{
+        font-size: small;
+    }
+
+    .memGames{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .memGames-indv img{
+        justify-content: center;
+    }
+
+    
+
+  </style>
+
+</head>
+<body>
+
+  <header>
+    <h1>GM Viswanathan Anand</h1>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="#info">Home</a></li>
+      <li><a href="#games">Games</a></li>
+      <li><a href="#achievements">Achievements</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <section>
+      <h2 id = "info">Viswanathan Anand</h2>
+      <img src="vishy.jpeg" width="350px">
+      <br>
+
+      <div>
+          <strong>Born</strong>
+          <p id="detail-pra">11 December 1969 (age 53)</p>
+          
+          <p>Mayiladuthurai, Tamil Nadu, India</p>
+      </div>
+
+        <br>
+      
+      <div>
+        <strong>Country</strong>
+        <p id="detail-pra">India</p>
+    </div>
+    
+        <br>
+        
+        <div>
+            <strong>World Champion</strong>
+            <p id="detail-pra">2000-2002 (1) & 2007-2013 (4)</p>
+      </div>
+
+      <br>
+      
+      <div>
+        <strong>FIDE Rating</strong>
+        <p id="detail-pra">2754</p>
+    </div>
+    
+    <br>
+
+      <div>
+        <strong>Peak Rating</strong>
+        <p id="detail-pra">2817</p>
+      </div>
+
+      <br>
+
+      <div>
+        <strong>Current World Ranking</strong>
+        <p id="detail-pra">No.9</p>
+      </div>
+
+      <br>
+
+      <div>
+        <strong>Peak ranking</strong>
+        <p id="detail-pra">No.1</p>
+      </div>
+
+
+    </section>
+    
+    <section>
+
+
+        <h3 id = "games">Memorable Games</h3>
+        <br>
+
+    <div class="memGames">
+        
+        <div class="memGames-indv">
+            <img src="one.png" width="300px">
+            <br>
+            <a href="https://www.chessgames.com/perl/chessgame?gid=1411277">Viswanathan Anand vs Ruslan Ponomariov (2006)</a>
+        </div>
+        
+        <div>
+            <img src="two.png" width="300px">
+            <br>
+            <a href="https://www.chessgames.com/perl/chessgame?gid=1018855">Vasyl Ivanchuk vs Viswanathan Anand (1998)</a>
+        </div>
+
+        
+
+        <!-- 3 Sergey Karjakin vs Viswanathan Anand 2008 https://www.chessgames.com/perl/chessgame?gid=1385670 -->
+        <!-- 4 Sergey Karjakin vs Viswanathan Anand 2007 https://www.chessgames.com/perl/chessgame?gid=1448263 -->
+
+    </div>
+
+        
+    </section>
+
+    <section>
+      <h2 id ="achievements">Achievements</h2>
+      <ul>
+        <li>He earned the title of Grandmaster at the age of 18</li>
+        <li>First Indian to achieve this GM title</li>
+        <li>Five times World Chess Champion</li>
+        
+
+      </ul>
+    
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 VishyAnand. All rights reserved.</p>
+  </footer>
+</body>
+</html>
